@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Schwarzer Benz, rote Lichter, wir fliegen im neuen RS
+> Deine Augen so tief, Baby, heute gibt's absolut no stress
+> Keine Zeit mehr zu warten, der Bass in der Brust macht uns blind
+> Wir flieh'n aus der City, lass los, Baby, wir jagen den Wind
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
